@@ -29,7 +29,7 @@
                         <h5 class="mb-0 fw-semibold">{{$class}}</h5>
                     </div>
                 </div>
-            </div>
+            </div>`
             <!-- End Page Header -->
             <div class="row">
                 <div class="col-xl-12">
